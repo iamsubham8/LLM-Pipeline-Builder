@@ -1,4 +1,4 @@
-# VectorShift - LLM Pipeline Builder
+# LLM Pipeline Builder
 
 A visual node-based pipeline builder for creating and executing LLM (Large Language Model) workflows.
 
@@ -13,7 +13,6 @@ A visual node-based pipeline builder for creating and executing LLM (Large Langu
 ## Project Structure
 
 ```
-vectorShift/
 ├── frontend/                 # React application
 │   ├── public/              # Static files
 │   ├── src/
